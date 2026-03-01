@@ -116,11 +116,11 @@ streamlit run app.py
 📸 Screenshots
 🔹 Open Eyes
 
-(Add image here)
+open_eyes.png
 
 🔹 Closed Eyes Alert
 
-(Add image here)
+closed_eyes_alert.png
 
 🚀 Future Improvements
 
