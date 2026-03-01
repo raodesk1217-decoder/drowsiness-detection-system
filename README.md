@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![Dlib](https://img.shields.io/badge/Dlib-FacialLandmarks-orange)
 🚗 Drowsiness Detection System using OpenCV & Dlib
 📌 Project Overview
 
