@@ -113,14 +113,20 @@ python app.py
 If using Streamlit:
 
 streamlit run app.py
-📸 Screenshots
-🔹 Open Eyes
 
-open_eyes.png
+## 📸 Screenshots
 
-🔹 Closed Eyes Alert
+### 🖥 Terminal Running the Script
+![Terminal Run](screenshots/terminal_run.png)
 
-closed_eyes_alert.png
+### 🚀 Streamlit Application Running
+![Streamlit Run](screenshots/streamlit_run.png)
+
+### 👀 Open Eyes Detection
+![Open Eyes](screenshots/open_eyes.png)
+
+### ⚠️ Drowsiness Alert Triggered
+![Closed Eyes Alert](screenshots/closed_eyes_alert.png)
 
 🚀 Future Improvements
 
